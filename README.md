@@ -1,1 +1,1 @@
-I'm just practicing using flexbox :)
+I'm just practicing to use flexbox :)
